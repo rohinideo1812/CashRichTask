@@ -24,7 +24,7 @@ class DetailsVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.temp.text = "Temperature- " + self.strTemp
+        self.temp.text = "Temperature- " + self.strTemp + " °C"
         self.humidity.text =  "Humidity- " + self.strHumidity
         self.lat.text =  "Selected Lattitude- " + self.strLat
         self.long.text =  "Selected Longitude- " + self.strLong
