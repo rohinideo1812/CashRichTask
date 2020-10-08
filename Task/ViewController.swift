@@ -100,3 +100,46 @@ class ViewController: UIViewController,CLLocationManagerDelegate {
     }
 }
     
+//{
+//  "coord": {
+//    "lon": 19.08,
+//    "lat": 19.08
+//  },
+//  "weather": [
+//    {
+//      "id": 802,
+//      "main": "Clouds",
+//      "description": "scattered clouds",
+//      "icon": "03d"
+//    }
+//  ],
+//  "base": "stations",
+//  "main": {
+//    "temp": 310.74,
+//    "feels_like": 304.99,
+//    "temp_min": 310.74,
+//    "temp_max": 310.74,
+//    "pressure": 1008,
+//    "humidity": 9,
+//    "sea_level": 1008,
+//    "grnd_level": 953
+//  },
+//  "visibility": 10000,
+//  "wind": {
+//    "speed": 5.24,
+//    "deg": 84
+//  },
+//  "clouds": {
+//    "all": 29
+//  },
+//  "dt": 1602073710,
+//  "sys": {
+//    "country": "TD",
+//    "sunrise": 1602045336,
+//    "sunset": 1602088018
+//  },
+//  "timezone": 3600,
+//  "id": 7602866,
+//  "name": "Borkou Region",
+//  "cod": 200
+//}
